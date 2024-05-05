@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="images\logo.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>XMovie</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Stencil+One%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A200%2C600%2C700"/>
+  <link rel="stylesheet" href="home\home.css"/>
+  <script src="home\Script.js"></script>
+</head>
+<body onload="loadPage()">
+<!-- Home Page -->  
+<div class="Home">
+  <!-- Navagate part -->
+  <div class="Navagate">
+    <div class="logo-head">
+      <img class="logo" alt="logo" src="./images/logo.png"/>
+      <p class="logo-text">
+        <span class="logo-text-sub-0">X</span>
+        <span class="logo-text-sub-1">movie</span>
+      </p>
+    </div>
+    <div class="head-content">
+      <div class="head-content-part1">
+        
+        <a href="aboutus.html" class="head-content-part1-about">About</a>
+        <a href="movies.html" class="head-content-part1-movies">movies</a>
+        <a href="serieses.html" class="head-content-part1-series">series</a>
+        <a href="home.html" class="head-content-part1-home">home</a>
+      </div>
+      <div class="head-content-part2-line"></div>
+      <!-- Create Login button-->
+      <div class="head-content-Login-button"><a href="login.html" class="login" id="login" >Login</a></div>
+    </div>
+  </div>
+
+  <!-- Content part section 1 -->
+  <div class="content-section-1">
+    <div class="content-section-1-texts">
+      <p class="content-section-1-text01">Unlimited movies</p>
+      <p class="content-section-1-text02">Easy way to search for your movies..</p>
+    </div>
+    <!-- Create label for search -->
+    <div class="content-section-1-search-label"><input class="content-section-1-search-label" id="search" type="text" onkeypress="search()"></div>
+  </div>
+
+  <!-- Content part section 2 -->
+  <div class="content-section-2">
+    <div class="content-section-2-popularMovies">Popular Movies</div>
+  </div>
+  <div class="content-section-2-moviesCard">
+
+    <div class="MovieCard-01"><a href="expand.html" onclick="goTo()"><img class="MovieCard-01" src="" id="movieOne" alt=""></a></div>
+    <div class="MovieCard-02"><a href="expand.html" onclick="goTo()"><img class="MovieCard-02" src="" id="movieTwo" alt=""></a></div>
+    <div class="MovieCard-03"><a href="expand.html" onclick="goTo()"><img class="MovieCard-03" src="" id="movieThree" alt=""></a></div>
+    <div class="MovieCard-04"><a href="expand.html" onclick="goTo()"><img class="MovieCard-04" src="" id="movieFour" alt=""></a></div>
+  </div>
+
+  <!-- content part section 3 -->
+  <div class="content-section-3">
+    <div class="content-section-3-PopularSeries">Popular Series</div>
+  </div>
+  <div class="content-section-3-seriesCards">
+
+    <div class="SeriesCard-01"><a href="expand.html" onclick="goTo()"><img class="SeriesCard-01" id="tvOne" src="" alt=""></a></div>
+    <div class="SeriesCard-02"><a href="expand.html" onclick="goTo()"><img class="SeriesCard-02" id="tvTwo" src="" alt=""></a></div>
+    <div class="SeriesCard-03"><a href="expand.html" onclick="goTo()"><img class="SeriesCard-03" id="tvThree" src="" alt=""></a></div>
+    <div class="SeriesCard-04"><a href="expand.html" onclick="goTo()"><img class="SeriesCard-04" id="tvFour" src="" alt=""></a></div>
+  </div>
+
+  <!-- Footer part -->
+  <div class="Footer">
+    <div class="logo-footer">
+      <img class="logoFotter" alt="logo" src="./images/logo.png"/>
+      <p class="footer-text">
+        <span class="footer-text-sub-0">X</span>
+        <span class="footer-text-sub-1">movie</span>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+</body>

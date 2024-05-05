@@ -1,0 +1,298 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.aboutus-D7h {
+  box-sizing: border-box;
+  padding: 0rem 18.3rem 0rem 18.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.aboutus-D7h .nav-jLw {
+  margin: 0rem 0.3rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 2.3rem 13.2rem 2.7rem 4rem;
+  width: calc(100% - 0.3rem);
+  height: 10.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.1000000015);
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .logo-frame-cQj {
+  margin-right: 35.45rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .logo-frame-cQj .logo-mYX {
+  margin: 0.4rem 1.95rem 0rem 0rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .logo-frame-cQj .xmovie-rK5 {
+  text-align: center;
+  font-size: 3.7rem;
+  font-weight: 600;
+  line-height: 1.2599999711;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .logo-frame-cQj .xmovie-rK5 .xmovie-rK5-sub-0 {
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #d60000;
+  font-family: Saira Stencil One, 'Source Sans Pro';
+}
+.aboutus-D7h .nav-jLw .logo-frame-cQj .xmovie-rK5 .xmovie-rK5-sub-1 {
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Saira Stencil One, 'Source Sans Pro';
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 {
+  margin: 1.9rem 0rem 1.5rem 0rem;
+  width: 34.7rem;
+  height: calc(100% - 3.4rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 .frame-1-d6s {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 5.6rem;
+  align-items: flex-start;
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 .frame-1-d6s .about-ZFR {
+   text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  line-height: 1.26;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 .frame-1-d6s .movies-V95 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  line-height: 1.26;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 .frame-1-d6s .series-nts {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  line-height: 1.26;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.aboutus-D7h .nav-jLw .frame-3-tf5 .frame-1-d6s .home-vEP {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  line-height: 1.26;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.aboutus-D7h .auto-group-qyu1-deb {
+  margin: 0rem 0.4rem 11.5rem 0.3rem;
+  width: calc(100% - 0.7rem);
+  height: 11rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.aboutus-D7h .auto-group-qyu1-deb .about-us-A8j {
+  width: 20.9rem;
+  height: 11rem;
+  position: absolute;
+  left: 1.15rem;
+  top: 0;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 2.2916666667;
+  letter-spacing: 0.096rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.aboutus-D7h .auto-group-qyu1-deb .line-5-3CX {
+  width: 145rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.8004rem;
+  background-color: #d60000;
+}
+
+.aboutus-D7h .frame-6-NEo {
+  margin: 0rem 50rem 46.3rem 38rem;
+  width: 90.5rem;
+  font-size: 1.8rem;
+  overflow: hidden;
+  position: relative;
+  color: #ffffff;
+
+  flex-shrink: 0;
+  
+  
+}
+.aboutus-D7h .footer-h2B {
+  margin-left: 0.3rem;
+  box-sizing: border-box;
+  padding: 2.2rem 44.75rem 2.6rem 42.6rem;
+  width: 106.9rem;
+  height: 10.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(217, 217, 217, 0.1000000015);
+  flex-shrink: 0;
+}
+.aboutus-D7h .footer-h2B .logo-footer-oqu {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.aboutus-D7h .footer-h2B .logo-footer-oqu .logo-m23 {
+  margin: 0.4rem 1.95rem 0rem 0rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.aboutus-D7h .footer-h2B .logo-footer-oqu .xmovie-ebd {
+  text-align: center;
+  font-size: 3.7rem;
+  font-weight: 600;
+  line-height: 1.2599999711;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.aboutus-D7h .footer-h2B .logo-footer-oqu .xmovie-ebd .xmovie-ebd-sub-0 {
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #d60000;
+  font-family: Saira Stencil One, 'Source Sans Pro';
+}
+.aboutus-D7h .footer-h2B .logo-footer-oqu .xmovie-ebd .xmovie-ebd-sub-1 {
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.185rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Saira Stencil One, 'Source Sans Pro';
+}
+.line {
+  margin-right: 1.1rem;
+  width: 0.1rem;
+  height: 5.001rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+
+table tr th {background:#222; color:#fff; padding:0; border:#111 solid 1px;  text-align: center; font-weight: bold;}  
+table tr td {border:1px #ccc solid; padding:5px;}  
+table tr td.rightright {background: #ff0101;}  
+table tr td h4 {margin:line0; padding:0; font-weight:normal;}  
+table {
+  margin: -34rem 50rem 46.3rem 38rem;
+  width: 60.5rem;
+  font-size: 1.8rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+
+
+  
+}
+th {
+  
+  border-bottom: 2px solid #943e3e;
+  font-weight: bold;
+  text-align: left;
+  color:#fff
+
+}
+td { border-bottom: 1px solid #550f0f; color:#fff;}
+caption, th, td {
+  padding: 4px 10px 4px 0;
+}
+caption {
+  background: #ff0000;
+  padding: 10px 0;
+  margin-bottom: 1em;
+}
+
+tr,td,th {
+  vertical-align: middle;
+}
+
+/* Use this if you use span-x classes on th/td. */
+table .last { padding-right: 0; } 
+
