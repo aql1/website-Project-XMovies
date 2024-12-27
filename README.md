@@ -1,34 +1,76 @@
+# XMovies Project
 
-XMovies - Movie and TV Show Information Platform
-Description
-XMovies is a centralized platform designed for users to explore information about various movies and TV shows. The website features a user-friendly interface, visually appealing design, and responsiveness across different devices. With clean UI and easy navigation, users can seamlessly access popular titles, search for specific movies or TV shows, and delve into detailed information about each title.
+Welcome to the XMovies project, an interactive and dynamic web application for exploring movies and series. This project was created by students of Umm Al-Qura University, aiming to deliver a seamless platform for discovering, reviewing, and interacting with popular and trending entertainment content.
 
-Project File Management
-The project's source folder contains multiple subfolders, each housing the necessary files for different pages of the website. This modular approach allows for organized file management and easier maintenance of the project.
+---
 
-Journey through XMovies
-Login/Sign Up Page: Users can either log in to existing accounts or sign up for new accounts. The process is straightforward, ensuring a smooth user experience.
-Home Page: Upon logging in, users are greeted with the Home page, featuring four popular movies and TV shows. A search bar allows users to look up any movie or TV show they desire, facilitating easy navigation.
-Movies and TV Shows Tabs: The navigation bar includes separate tabs for movies and TV shows. Each tab leads users to a dedicated page showcasing the best titles in each category.
-Detailed Information: Clicking on movie or TV show posters provides users with detailed information, including synopses, cast and crew details, ratings, reviews, trailers, and related content.
-Features
-User authentication system for login and sign up.
-Modern and visually appealing design with CSS and HTML.
-Interactive elements powered by JavaScript.
-Search functionality for easy navigation.
-Detailed information display for each movie and TV show.
-Responsive design for seamless user experience across devices.
-Tools Used
-The project was built using the following tools:
+## Features
 
-HTML: for structuring the web pages.
-CSS: for styling and visual design.
-JavaScript: for interactive features and functionality.
-Figma: for designing the UI and layout.
-Instructions
-Open the website by launching the main HTML file.
-Navigate through the pages using the provided links and tabs.
-Explore popular movies and TV shows on the Home page.
-Use the search bar to find specific titles.
-Click on movie or TV show posters to access detailed information.
-Enjoy the user-friendly experience of XMovies!
+1. **Home Page**:
+   - Displays popular movies and series.
+   - Allows searching for specific content easily.
+
+2. **Movies Page**:
+   - Organizes movies into genres such as Action, Comedy, Sci-Fi, Romance, and more.
+   - Includes trailers and featured content sections.
+
+3. **Series Page**:
+   - Categorizes series into genres like Drama, Crime, Fantasy, and True Stories.
+   - Provides insights into trending shows.
+
+4. **Login and Registration**:
+   - User authentication system.
+   - Registration form includes secure features like security questions and terms agreements.
+
+5. **About Us Page**:
+   - Details about the student team and their mission for this project.
+   - Provides information about the contributors.
+
+6. **Details Page**:
+   - Detailed view of movies and series, including genre, year, language, plot description, and actors.
+
+---
+
+## Installation and Setup
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/XMovies.git
+   cd XMovies
+   ```
+
+2. **Run Locally**:
+   Open any of the HTML files in your preferred browser to view and interact with the web application.
+
+3. **Directory Organization**:
+   - Ensure all `assets` (CSS, JS, images) are correctly linked to the HTML files.
+
+---
+
+## How to Use
+
+1. **Home Page**:
+   - Explore trending movies and series.
+   - Use the search bar to find specific content.
+
+2. **Movies and Series Pages**:
+   - Browse through different genres.
+   - Click on any movie or series card to view detailed information.
+
+3. **Login/Registration**:
+   - Create an account or log in to access personalized features.
+   - Reset passwords using security questions if needed.
+
+4. **About Us**:
+   - Learn about the team and their goals.
+
+---
+
+## Technologies Used
+
+- **HTML5**: Structuring content.
+- **CSS3**: Styling and layouts.
+- **JavaScript**: Interactivity and dynamic elements.
+- **Google Fonts**: Typography.
+
+---
